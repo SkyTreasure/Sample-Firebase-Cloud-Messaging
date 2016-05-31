@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "589190025321",
+    "firebase_url": "https://sky-firebase.firebaseio.com",
+    "project_id": "sky-firebase",
+    "storage_bucket": "sky-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:589190025321:android:f866b75e2118579e",
+        "android_client_info": {
+          "package_name": "skytreasure.skyfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "589190025321-be30n2i80kli9tqvq3p1fl42id75o1dv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "skytreasure.skyfirebase",
+            "certificate_hash": "9270F655E071E4EFBDDC0EEEAE2E3DF6DDD34209"
+          }
+        },
+        {
+          "client_id": "589190025321-rsht35b4qi1d42fsqodb96qnh36lj6r4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJK1eyCLAkZ-svLBjiT4mg53QlxEEmvws"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "589190025321-rsht35b4qi1d42fsqodb96qnh36lj6r4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
